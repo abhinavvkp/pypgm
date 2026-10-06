@@ -16,7 +16,7 @@ for ch in string:
     elif ch != ' ':
         special += 1
 
-print("Vowels =", vowels)
+print ("Vowels =", vowels)
 print("Consonants =", consonants)
 print("Digits =", digits)
 print("Special characters =", special)
