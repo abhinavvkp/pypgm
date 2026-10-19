@@ -11,7 +11,7 @@ dog = Dog()
 cat = Cat()
 print("inheritance:")
 dog.sound()
-print("\nPolymorphism:")
+print ("\nPolymorphism:")
 animals = [Dog(),Cat()]
 for animal in animals:
      animal.sound()
