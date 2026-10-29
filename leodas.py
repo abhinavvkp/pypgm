@@ -1,4 +1,4 @@
-s=input("enter a sentence:")
+s=input ("enter a sentence:")
 words=s.split()
 d={}
 for word in words:
